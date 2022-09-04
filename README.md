@@ -53,5 +53,5 @@ Alguns recursos que são encontrados no projeto:
   * **Pedro Henrique dos Santos Silva** 
 
   <br />
-  Me siga no <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPedro-Hen46" target="_blank"><strong>Github</strong> </a> e Faça uma conexão no <a href="https://www.linkedin.com/in/pedro-silva-05012289" target="_blank"><strong>LinkedIn</strong> </a>.<br/> 
+  Me siga no <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPedro-Hen46" target="_blank"><strong>Github</strong> </a> e Faça uma conexão no <a href="https://www.linkedin.com/in/pedro-henrique-dos-santos-silva-05012289/" target="_blank"><strong>LinkedIn</strong> </a>.<br/> 
   Obrigado por visitar. ❤
