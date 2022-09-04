@@ -1,5 +1,5 @@
 
-<img style="height:300px; text-align: center;" src="./lib/ReadmeImages/DrivenEatsLogo.png"><br />
+<div style=" display: flex; justify-content: center"><img style="height:250px;" src="./lib/ReadmeImages/DrivenEatsLogo.png"></div><br />
 Peça agora o seu lanchinho para sair da fome em 6 minutos usando Driven Eats... 
 
 ## Driven Eats  🍔 🍟
@@ -19,19 +19,19 @@ Algumas tecnologias usadas:
 
 ### 1 - Quando você acessa, essa é a Tela Inicial.
 
-<img style="width: 50%; border-radius: 10px;" src="./lib/ReadmeImages/TelaInicial.png"><br />
+<img style="width: 40%; border-radius: 10px;" src="./lib/ReadmeImages/TelaInicial.png"><br />
 
 ### 2 - Selecione o seu Prato, depois sua Bebiba e por fim uma Sobremesa🍟
 
-<img style="width: 50%; border-radius: 10px;" src="./lib/ReadmeImages/FecharPedido.png">
+<img style="width: 40%; border-radius: 10px;" src="./lib/ReadmeImages/FecharPedido.png">
 
 ### 3 - Verifique os dados do seu pedido, adicione o nome e endereço.
 
-<img style="width: 50%; border-radius: 10px;" src="./lib/ReadmeImages/DadosUser.png"><br />
+<img style="width: 40%; border-radius: 10px;" src="./lib/ReadmeImages/DadosUser.png"><br />
 
 ### 4 - Confirme o seu pedido enviando a mensagem para o estabelecimento. 
 
-<img style="width: 50%; border-radius: 10px;" src="./lib/ReadmeImages/ConfirmarPedido.png"><br />
+<img style="width: 40%; border-radius: 10px;" src="./lib/ReadmeImages/ConfirmarPedido.png"><br />
 
 
 ## Recursos
