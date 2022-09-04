@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto:wght@100;400;700&display=swap');
-
+*{
+    box-sizing: border-box;
+}
 body{
     font-family: 'Roboto', cursive;
     font-family: 'Righteous', sans-serif;
@@ -25,12 +27,6 @@ h6{
     font-size: 15px;
     font-weight: 100;
     color: #a6a6a6;
-}
-h7{
-    font-family: 'Roboto';
-    font-size: 22px;
-    font-weight: 700;
-    color: white; 
 }
 span {
     font-family: 'Roboto';
@@ -148,7 +144,7 @@ input{
     height: 92px;
     background-color: #CF2B2B;
     border-bottom: 1px solid rgba(0,0,0, 0.2);
-    padding: 4%;
+    padding: 20px;
     box-sizing: border-box;
     position: fixed;
     top: 0;
@@ -171,7 +167,7 @@ input{
     height: 800px;
     margin-top: 92px;
     padding-left: 4%;
-    margin-bottom: 130px;
+    margin-bottom: 160px;
 
     display: flex;
     
@@ -212,9 +208,11 @@ input{
     overflow-x: scroll;
     margin-bottom: 20px;
     margin-top: 20px;
+
 }
 .product-list::-webkit-scrollbar{
-    display: none;
+    display: flex;
+    scrollbar-color: dark;
 }
 
 .product{
